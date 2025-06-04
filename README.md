@@ -74,7 +74,7 @@ I'm a passionate **Full-Stack Developer** who enjoys solving problems with clean
 
 ## 📫 Let's Connect:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/obaniyi-michael-tobiloba-a933602b9/)
+- 💼 (https://www.linkedin.com/in/obaniyi-michael-tobiloba-a933602b9/)
 - 📧 Michaelcodify0@gmail.com
 - 🌐 Portfolio: _Coming Soon!_
 
@@ -82,7 +82,7 @@ I'm a passionate **Full-Stack Developer** who enjoys solving problems with clean
 
 ## ❤️ Support
 
-- ☕[(https://buymeacoffee.com/https:/buymeacoffee.com/Michaelcodify)]
+- ☕[(https:/buymeacoffee.com/Michaelcodify)]
 
 ---
 
