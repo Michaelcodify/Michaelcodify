@@ -42,7 +42,9 @@ I'm a passionate **Full-Stack Developer** who enjoys solving problems with clean
 
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=obaniyitobiloba&theme=flat&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?Michaelcodify=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?Michaelcodify=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
