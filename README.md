@@ -42,16 +42,16 @@ I'm a passionate **Full-Stack Developer** who enjoys solving problems with clean
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?Michaelcodify=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Michaelcodify&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?Michaelcodify=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Michaelcodify)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Obaniyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=obaniyitobiloba&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obaniyitobiloba&layout=compact)
+![Obaniyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaelcodify&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelcodify&layout=compact)
 
 ---
 
