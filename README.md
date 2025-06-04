@@ -95,6 +95,7 @@ I'm a passionate **Full-Stack Developer** who enjoys solving problems with clean
 <a href="https://www.buymeacoffee.com/Michaelcodify" target="_blank">
     <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
+
 ---
 
 ## 📊 Most Used Languages
