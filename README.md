@@ -6,7 +6,7 @@ I'm a passionate **Full-Stack Developer** who enjoys solving problems with clean
 
 ## 🚀 About Me
 
-- 💻 I build full-stack applications using **React**, **Next.js**, **Node.js**, and **Laravel**
+- 💻 I build full-stack applications using **React**, **Next.js**, **Node.js**, **Express**, and **Laravel**
 - 🛠️ Backend expertise: **REST APIs**, **PHP**, **MongoDB**, **MySQL/PostgreSQL**, and **Docker**
 - ☁️ Deploying to **AWS**, **Vercel**, and **DigitalOcean**
 - 🧱 I value clean architecture, reusability, and good developer experience
@@ -55,14 +55,14 @@ I'm a passionate **Full-Stack Developer** who enjoys solving problems with clean
 
 ## 📊 Contributions
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=obaniyitobiloba&theme=default)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Michaelcodify&theme=default)
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/obaniyitobiloba)
-- 📧 obaniyitobiloba@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/obaniyi-michael-tobiloba-a933602b9/)
+- 📧 Michaelcodify0@gmail.com
 - 🌐 Portfolio: _Coming Soon!_
 
 ---
