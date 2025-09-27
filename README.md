@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Obaniyi Michael Tobiloba
 
-I'm a passionate **Full-Stack Developer** who enjoys solving problems with clean, scalable code. I specialize in building modern web applications using both JavaScript and PHP stacks.
+I'm a passionate **Full-Stack Developer** who enjoys solving problems with clean, scalable code. I specialize in building modern web and mobile applications using both JavaScript and PHP stacks.
 
 ---
 
